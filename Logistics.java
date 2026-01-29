@@ -1,10 +1,10 @@
 
 import java.util.Scanner;
-
+//hello
 public class Logistics {
     public static void main(String[] args) {
 
-       /* String[] deliv_status = new String[30];*/
+        String[] deliv_status = new String[30];
        
         String[] customer = new String[30];
         String[] cus_add = new String[30];

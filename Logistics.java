@@ -1,6 +1,6 @@
 // Mupra,Faelnar,Galon
 import java.util.Scanner;
-
+//hi
 public class Logistics {
     public static void main(String[] args) {
 

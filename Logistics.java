@@ -1,9 +1,11 @@
-// Mupra,Faelnar,Galon
+
 import java.util.Scanner;
 
 public class Logistics {
     public static void main(String[] args) {
 
+       /* String[] deliv_status = new String[30];*/
+       
         String[] customer = new String[30];
         String[] cus_add = new String[30];
         String[] cus_phone = new String[30];
